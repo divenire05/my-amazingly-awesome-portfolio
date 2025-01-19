@@ -3,7 +3,7 @@
 
     let steps = [
         {name: 'Vedant Badoni Store', icon: 'fa-solid fa-cart-shopping'},
-        {name: 'Ultimate Todos', icon: 'fa-solid fa-lsit-check'},
+        {name: 'Ultimate Todos', icon: 'fa-solid fa-list-check'},
         {name: 'Pokédex', icon: 'fa-solid fa-diagram-project'},
     ]
 
