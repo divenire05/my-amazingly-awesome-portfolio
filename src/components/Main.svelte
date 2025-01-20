@@ -37,7 +37,7 @@
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favorite tech</span> includes C++, Python, JavaScript (NEXT.JS), TailwindCSS, Node.js + Express.js, Firebase/Firestore, Bash, & LangChain
             </p>
-            <a href="https://www.linkedin.com/in/vedant-badoni-b5a67a20b/" target="_blank" class="blueShadow mx-auto lg:mr-auto text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
+            <a href="https://www.linkedin.com/in/vedant-badoni-b5a67a20b/" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
                 />
